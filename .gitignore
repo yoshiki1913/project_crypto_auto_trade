@@ -1,0 +1,5 @@
+src_original/*
+config/*
+venv/*
+*.vscode
+*.idea

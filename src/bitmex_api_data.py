@@ -1,0 +1,3 @@
+
+class bitmexApiData:
+    pass
